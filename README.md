@@ -12,4 +12,4 @@ Esse repositório contém um fluxograma para o desenvolvimento das páginas para
 A ferramenta/site utilizada para a confecção do fluxograma foi: https://app.diagrams.net
 
 
-[Fluxograma](https://github.com/VictorGoul/Fluxograma_Sinajuve/blob/main/README.md)
+[Fluxograma](https://github.com/VictorGoul/Fluxograma_Sinajuve/blob/main/Fluxograma.xml)
