@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T17:11:10.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Qt3xVqto_VOHoIJLI7JZ" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T17:11:41.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="JKtIc6sW-oBas15SwKRB" version="24.5.2" type="github">
   <diagram name="Página-1" id="q34F65lGAk6rc6jxku_2">
-    <mxGraphModel dx="2058" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3316" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,25 +245,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-116" value="4" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="360" y="930" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-117" target="X1dEYRgOQPaIyOitXCKV-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-117" value="Envio de dados para equipe do Miguel" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-119" target="X1dEYRgOQPaIyOitXCKV-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-119" value="Espera devolutiva" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1170" width="120" height="80" as="geometry" />
+          <mxGeometry x="491" y="1170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-121" target="X1dEYRgOQPaIyOitXCKV-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-121" value="Devolutiva Miguel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-125" target="X1dEYRgOQPaIyOitXCKV-129">
           <mxGeometry relative="1" as="geometry" />
@@ -275,45 +275,45 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-125" value="Se" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1300" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-129" target="X1dEYRgOQPaIyOitXCKV-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-129" value="Indefirido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1325" width="80" height="30" as="geometry" />
+          <mxGeometry x="625" y="1325" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-131" value="Devolutiva ao solicitante" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="605" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-133" target="X1dEYRgOQPaIyOitXCKV-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-133" value="Aprovado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1420" width="80" height="30" as="geometry" />
+          <mxGeometry x="510" y="1420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-135" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Devolutiva ao solicitante&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-137">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="1340" as="targetPoint" />
+            <mxPoint x="355" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-137" value="Deligente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1325" width="80" height="30" as="geometry" />
+          <mxGeometry x="405" y="1325" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-142" target="X1dEYRgOQPaIyOitXCKV-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-142" value="Devolutiva ao solicitante" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1dEYRgOQPaIyOitXCKV-146" target="X1dEYRgOQPaIyOitXCKV-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1dEYRgOQPaIyOitXCKV-146" value="Espera recebimento de informações complementares" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1292.5" width="160" height="95" as="geometry" />
+          <mxGeometry x="40" y="1292.5" width="160" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
